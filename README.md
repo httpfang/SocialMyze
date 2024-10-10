@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="public/thumbnail.jpg" alt="ThreadCraft AI Logo" />
-</p>
 
-# ThreadCraft AI: Social Media Content Generator
 
-ThreadCraft AI is a powerful Next.js application that leverages AI to generate engaging content for various social media platforms. This project uses cutting-edge technologies to provide users with an intuitive interface for creating Twitter threads, Instagram captions, and LinkedIn posts.
+# SocialMyze AI: Social Media Content Generator
+
+SocialMyze AI is a powerful Next.js application that leverages AI to generate engaging content for various social media platforms. This project uses cutting-edge technologies to provide users with an intuitive interface for creating Twitter threads, Instagram captions, and LinkedIn posts.
 
 ## Features
 
@@ -33,8 +31,8 @@ ThreadCraft AI is a powerful Next.js application that leverages AI to generate e
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/threadcraft-ai.git
-   cd threadcraft-ai
+   git clone https://github.com/httpfang/SocialMyze.git
+   cd SocialMyze
    ```
 
 2. Install dependencies:
@@ -63,16 +61,10 @@ ThreadCraft AI is a powerful Next.js application that leverages AI to generate e
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
