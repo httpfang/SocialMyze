@@ -19,7 +19,7 @@ export const sendWelcomeEmail = async (toEmail: string, name: string) => {
     await initMailtrap();
   }
 
-  const sender = { name: "ThreadCraft AI", email: "hello@demomailtrap.com" };
+  const sender = { name: "SocialMyze AI", email: "hello@demomailtrap.com" };
 
   await client.send({
     from: sender,
