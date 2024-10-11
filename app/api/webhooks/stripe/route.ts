@@ -71,11 +71,11 @@ export async function POST(req: Request) {
 
       // Map price IDs to plan names and points
       switch (priceId) {
-        case "price_1PyFKGBibz3ZDixDAaJ3HO74":
+        case "price_1Q8Z9sSC7S9ypZrIGr3JPxox":
           plan = "Basic";
           pointsToAdd = 100;
           break;
-        case "price_1PyFN0Bibz3ZDixDqm9eYL8W":
+        case "price_1Q8Z9sSC7S9ypZrIGr3JPxox":
           plan = "Pro";
           pointsToAdd = 500;
           break;
