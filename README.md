@@ -27,10 +27,10 @@ Welcome to **SocialMyze AI**! 🚀 This app is a game-changer, using the power o
 
 ### 1️⃣ **Clone this bad boy:**
 
-\`\`\`bash
+
 git clone https://github.com/httpfang/SocialMyze.git
 cd SocialMyze
-\`\`\`
+
 
 ### 2️⃣ **Install dependencies:**
 
