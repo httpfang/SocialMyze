@@ -34,28 +34,28 @@ cd SocialMyze
 
 ### 2️⃣ **Install dependencies:**
 
-\`\`\`bash
+
 npm install
-\`\`\`
+
 
 ### 3️⃣ **Set up the magic (a.k.a environment variables) 🧙‍♂️:**
 
 Create a `.env.local` file in the root directory and add the following variables:
 
-\`\`\`bash
+
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 CLERK_SECRET_KEY=your_clerk_secret_key
 NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key
 DATABASE_URL=your_neon_database_url
 STRIPE_SECRET_KEY=your_stripe_secret_key
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
-\`\`\`
+
 
 ### 4️⃣ **Run the dev server like a champ:**
 
-\`\`\`bash
+
 npm run dev
-\`\`\`
+
 
 ### 5️⃣ **Party time! 🎉**
 
